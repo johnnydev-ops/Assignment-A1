@@ -1,0 +1,26 @@
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.AssemblyInfoInputs.cache
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.AssemblyInfo.cs
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.csproj.CoreCompileInputs.cache
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.exe
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.deps.json
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.runtimeconfig.json
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.runtimeconfig.dev.json
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.dll
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.pdb
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.dll
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.pdb
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.genruntimeconfig.cache
+C:\Users\Jdog\source\repos\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.csproj.AssemblyReference.cache
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.exe
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.deps.json
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.runtimeconfig.json
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.runtimeconfig.dev.json
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.dll
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\bin\Debug\netcoreapp3.1\Assignment1A.pdb
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.csproj.AssemblyReference.cache
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.AssemblyInfoInputs.cache
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.AssemblyInfo.cs
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.csproj.CoreCompileInputs.cache
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.dll
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.pdb
+C:\Users\Jdog\OneDrive\Skrivbord\Malmö University\Assignment1A\Assignment1A\obj\Debug\netcoreapp3.1\Assignment1A.genruntimeconfig.cache
